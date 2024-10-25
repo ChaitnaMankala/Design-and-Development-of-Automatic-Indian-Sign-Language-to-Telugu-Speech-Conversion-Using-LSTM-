@@ -1,0 +1,1 @@
+# Design-and-Development-of-Automatic-Indian-Sign-Language-to-Telugu-Speech-Conversion-Using-LSTM-
